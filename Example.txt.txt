@@ -1,3 +1,7 @@
 Example
 Change
 внесли изменения из GitHub
+
+работа с stash
+
+Изменили файл в ветке develop
